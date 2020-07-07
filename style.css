@@ -1,0 +1,48 @@
+body{
+	background: #CCCCCC
+}
+
+#banner-fit{
+	width: 100%;
+}
+
+h1{
+	text-align: center;
+	color: tomato
+}
+
+.principal{
+	padding: 30px;
+}
+
+p{
+	font-size: 20px;
+}
+
+#mision{
+	text-align: center;
+}
+
+em strong{
+	color: #FF0000;
+}
+
+.itens{
+	font-style: italic;
+}
+
+.imc{
+	background: #FFFFFF;
+	padding: 20px
+}
+
+ul{
+	display: inline-block;
+	vertical-align: top;
+	width: 40%;
+	margin-right: 15%;
+}
+
+.image-imc{
+    width: 40%;
+}
